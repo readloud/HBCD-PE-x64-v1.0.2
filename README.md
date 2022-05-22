@@ -102,7 +102,7 @@ Chrome v91.0.4472.106
 Mozilla Firefox Quantum ESR v78.11.0.7821
 PENetwork v0.59.0.B12
 
-| Filename | HBCD_PE_x64.iso(Thanks to all our Supporters for providing fast and reliable mirror servers) |
+|  |  |
 | ------------- | ------------- |
 | Filename | HBCD_PE_x64.iso(Thanks to all our Supporters for providing fast and reliable mirror servers)
 | Filesize | 2.88 GB (3099203584 bytes)
