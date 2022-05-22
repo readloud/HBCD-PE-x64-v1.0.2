@@ -5,8 +5,8 @@ Hiren’s BootCD PE x64 (v1.0.2) – ISO Content (changelog)
 
 ## BCD-MBR Tools
 
-BootIce v1.3.3
-EasyBCD v2.3
+- BootIce v1.3.3
+- EasyBCD v2.3
 
 ## Hard Disk Tools – Data Recovery
 
