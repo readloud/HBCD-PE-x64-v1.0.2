@@ -102,9 +102,9 @@ Chrome v91.0.4472.106
 Mozilla Firefox Quantum ESR v78.11.0.7821
 PENetwork v0.59.0.B12
 
-|  |  |
+| Copyright 2010 - 2022 hirensbootcd.org | All Rights Reserved |
 | ------------- | ------------- |
-| Filename | HBCD_PE_x64.iso(Thanks to all our Supporters for providing fast and reliable mirror servers)
+| Filename | [HBCD_PE_x64.iso](https://www.hirensbootcd.org/files/HBCD_PE_x64.iso) (Thanks to all our Supporters for providing fast and reliable mirror servers)
 | Filesize | 2.88 GB (3099203584 bytes)
 | ISO MD5	 | BEC7304FE2EB11DE495B9EA7B73C38AA
 | ISO SHA1 | EC7D4EC02A8772A4ECAEE59A9095D65B043AA77D
