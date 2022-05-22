@@ -117,10 +117,10 @@ Hiren’s BootCD PE x64 (v1.0.2) – ISO Content (changelog)
 - PENetwork v0.59.0.B12
 
 | Filename | [HBCD_PE_x64.iso](https://www.hirensbootcd.org/files/HBCD_PE_x64.iso) (Thanks to all our [Supporters](https://www.hirensbootcd.org/supporters/) for providing fast and reliable mirror servers) |
-| ------------- | ------------- |
+|------------- | ------------- |
 | Filesize | 2.88 GB (3099203584 bytes)
 | ISO MD5	 | BEC7304FE2EB11DE495B9EA7B73C38AA
 | ISO SHA1 | EC7D4EC02A8772A4ECAEE59A9095D65B043AA77D
-| ISO SHA-256 | 8281107683E81BE362AFD213026D05B2219BC6A7CA9AF4D2856663F3FFC17BFD|
+| ISO SHA-256 | 8281107683E81BE362AFD213026D05B2219BC6A7CA9AF4D2856663F3FFC17BFD |
 
 Copyright 2010 - 2022 [hirensbootcd.org](https://www.hirensbootcd.org/) | All Rights Reserved
