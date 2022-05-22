@@ -103,8 +103,8 @@ Mozilla Firefox Quantum ESR v78.11.0.7821
 PENetwork v0.59.0.B12
 
 |----|----|
-|Filename	| HBCD_PE_x64.iso(Thanks to all our Supporters for providing fast and reliable mirror servers)|
-|Filesize | 2.88 GB (3099203584 bytes)|
-|ISO MD5	 | BEC7304FE2EB11DE495B9EA7B73C38AA|
-|ISO SHA1 | EC7D4EC02A8772A4ECAEE59A9095D65B043AA77D|
+|Filename	| HBCD_PE_x64.iso(Thanks to all our Supporters for providing fast and reliable mirror servers)
+|Filesize | 2.88 GB (3099203584 bytes)
+|ISO MD5	 | BEC7304FE2EB11DE495B9EA7B73C38AA
+|ISO SHA1 | EC7D4EC02A8772A4ECAEE59A9095D65B043AA77D
 |ISO SHA-256 | 8281107683E81BE362AFD213026D05B2219BC6A7CA9AF4D2856663F3FFC17BFD|
